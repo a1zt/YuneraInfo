@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Плохая Сука",
+    "artist": "GONE.Fludd",
+    "src": "song/gone.mp3",
+    "coverArt": "images/gone.png"
+  },
+
+  {
+    "title": "Тени Хиросимы",
+    "artist": "GONE.Fludd",
+    "src": "song/gone1.mp3",
+    "coverArt": "images/gone1.png"
+  },
+  
+  {
+    "title": "Hennessy & Sailor Moon",
+    "artist": "Yung Lean",
+    "src": "song/Hennessy.mp3",
+    "coverArt": "images/Hennessy.png"
+  },
+
+  {
+    "title": "Hesitation",
+    "artist": "Andrew Garden",
+    "src": "song/1.mp3",
+    "coverArt": "images/1.png"
+  }
+]
