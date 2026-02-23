@@ -25,5 +25,12 @@
     "artist": "Andrew Garden",
     "src": "song/1.mp3",
     "coverArt": "images/1.png"
+  },
+
+  {
+    "title": "Dream Garden",
+    "artist": "GONE.Fludd",
+    "src": "song/2.mp3",
+    "coverArt": "images/2.png"
   }
 ]
